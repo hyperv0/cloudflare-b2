@@ -1,0 +1,12 @@
+name = "cloudflare-b2"
+
+workers_dev = true
+compatibility_date = "2023-09-04"
+
+main = "index.js"
+
+[vars]
+B2_APPLICATION_KEY_ID = "003481963253c050000000002"
+B2_ENDPOINT = "https://s3.eu-central-003.backblazeb2.com"
+BUCKET_NAME = "voidhero"
+ALLOW_LIST_BUCKET = "true"
