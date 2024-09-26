@@ -1,9 +1,7 @@
 name = "voidherob2"
-compatibility_date = "2024-09-26"
+compatibility_date = "2023-09-04"
 main = "index.js"
 
-[observability]
-enabled = true
 
 [vars]
 B2_APPLICATION_KEY_ID = "003481963253c050000000001"
