@@ -1,11 +1,11 @@
-name = "voidherob2"
+name = "whirlcdnb2"
 compatibility_date = "2023-09-04"
 main = "index.js"
 
 
 [vars]
-B2_APPLICATION_KEY_ID = "003481963253c050000000001"
-B2_APPLICATION_KEY = 'K003YXH4vky/E+C4rN3k1sb+P/lgi70'
-B2_ENDPOINT = "s3.eu-central-003.backblazeb2.com"
-BUCKET_NAME = "voidhero"
+B2_APPLICATION_KEY_ID = "J0LZD8EE37QQ36XMCA7D"
+B2_APPLICATION_KEY = 'GnFH54Cn5dIyGzXdteaYJVKZyz2k4gD9JVZ5jbYe'
+B2_ENDPOINT = "s3.eu-central-2.wasabisys.com"
+BUCKET_NAME = "cdn.whirl.lol"
 ALLOW_LIST_BUCKET = "true"
